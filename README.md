@@ -55,4 +55,4 @@ BEFORE DEBUGGING / RUNNING THE SOLUITON
 ----------------------------------------
 1. It would be required to Create Database, Schema and Tables by running the script and obtain DB Connection String.
 2. DB Connection String needs to be updated in Web.Config file
-3. If the solution is deployed in Production, its URL also needs to be updated in Web.config file.
+3. If the solution is deployed in Production, its Base URL also needs to be updated in Web.config file.
